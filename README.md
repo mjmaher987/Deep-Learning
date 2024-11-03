@@ -10,3 +10,5 @@ This assignment contains 3 main parts:
 
 ## 2- Yolo, CNN, and Colorization
 ## 3- GPT, RNN, and BERT
+## 4- DDPM and GAN-VAE
+## 5- Adversarial, Dino, and StabeDiffusion
