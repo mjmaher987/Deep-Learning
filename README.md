@@ -8,4 +8,3 @@ This assignment contains 3 main parts:
 - NN from scratch: Here we have implemented neural networkd from scratch.
 - PyTorch: In this notebook we got familiar with different PyTorch function which are widely used in the field of deep learning.
 
-## TODO
